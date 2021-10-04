@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tin2294@gmail.com
+	name = Ting Ting Chen
